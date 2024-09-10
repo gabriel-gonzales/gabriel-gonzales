@@ -13,3 +13,8 @@
 - ![Python](https://img.shields.io/badge/-Python-blue)
 - ![SQL](https://img.shields.io/badge/-SQL-brightgreen)
 - ![Git](https://img.shields.io/badge/-Git-orange)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel-gonzales&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical)
+
