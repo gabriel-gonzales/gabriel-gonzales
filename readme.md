@@ -15,9 +15,9 @@
 <tr>
     <td>
         <strong>Habilidades:</strong><br>
-        ![Python](https://img.shields.io/badge/-Python-blue)<br>
-        ![SQL](https://img.shields.io/badge/-SQL-brightgreen) <br>
-        ![Git](https://img.shields.io/badge/-Git-orange)
+        - ![Python](https://img.shields.io/badge/-Python-blue)<br>
+        - ![SQL](https://img.shields.io/badge/-SQL-brightgreen)<br>
+        - ![Git](https://img.shields.io/badge/-Git-orange)<br>
     </td>
     <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical" alt="Linguagens Usadas">
