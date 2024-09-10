@@ -2,7 +2,6 @@
 
 🎓 **Estudante de Data Science** <br>
 💻 **Atuando com SQL, Python, Análise Estatísticas e Matemáticas** <br>
-📊 Apaixonado por trabalhar com grandes volumes de dados e gerar insights!
 
 ### Projetos Recentes:
 
