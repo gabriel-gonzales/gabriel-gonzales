@@ -6,6 +6,7 @@
 ### Projetos Recentes:
 
 - [Análise de Gênero: Censo Educacional] (https://github.com/gabriel-gonzales/analise-genero-exatas-humanas)
+- [Transações Bancárias em SQL] (https://github.com/gabriel-gonzales/transacoes-sql)
 - [Análise de Filmes: IMDb] (https://github.com/seu_usuario/relatorios-python)
 
 ### Habilidades:
