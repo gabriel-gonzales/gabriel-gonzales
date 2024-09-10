@@ -12,9 +12,8 @@
 
 ### Habilidades:
 - ![Python](https://img.shields.io/badge/-Python-blue)
-- ![SQL](https://img.shields.io/badge/-SQL-brightgreen)
+- ![SQL](https://img.shields.io/badge/-SQL-brightgreen)                                       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical)
 - ![Git](https://img.shields.io/badge/-Git-orange)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical)
 
