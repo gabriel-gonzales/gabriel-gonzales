@@ -20,5 +20,8 @@
         <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white" alt="Git"><br>
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical" alt="Linguagens Usadas">
+    </td>
+</tr>
+</table>
 
