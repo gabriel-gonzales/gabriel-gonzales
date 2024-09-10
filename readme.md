@@ -14,7 +14,7 @@
 <table>
 <tr>
     <td>
-        <strong>Habilidades:</strong><br>
+        <strong></strong><br>
         <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white" alt="Python"><br>
         <img src="https://img.shields.io/badge/-SQL-brightgreen?style=flat&logo=sql&logoColor=white" alt="SQL"><br>
         <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white" alt="Git"><br>
