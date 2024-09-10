@@ -11,17 +11,15 @@
 
 ### Habilidades e Linguagens Usadas:
 
-<table>
-<tr>
-    <td>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div>
         <strong>Habilidades:</strong><br>
         ![Python](https://img.shields.io/badge/-Python-blue)<br>
         ![SQL](https://img.shields.io/badge/-SQL-brightgreen)<br>
         ![Git](https://img.shields.io/badge/-Git-orange)
-    </td>
-    <td>
+    </div>
+    <div>
         <strong>Linguagens Usadas:</strong><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical" alt="Linguagens Usadas">
-    </td>
-</tr>
-</table>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical" alt="Linguagens Usadas" style="margin-left: 20px;">
+    </div>
+</div>
