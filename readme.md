@@ -6,7 +6,7 @@
 ### Projetos Recentes:
 
 - [Análise de Gênero: Censo Educacional] (https://github.com/gabriel-gonzales/analise-genero-exatas-humanas)
-- [Análise IMDb] (https://github.com/seu_usuario/relatorios-python)
+- [Análise de Filmes: IMDb] (https://github.com/seu_usuario/relatorios-python)
 
 ### Habilidades:
 - ![Python](https://img.shields.io/badge/-Python-blue)
