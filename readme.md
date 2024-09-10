@@ -7,6 +7,7 @@
 
 - [Análise de Gênero: Censo Educacional] (https://github.com/gabriel-gonzales/analise-genero-exatas-humanas)
 - [Transações Bancárias em SQL] (https://github.com/gabriel-gonzales/transacoes-sql)
+- [Estudo de Casos de Autismo] (https://github.com/gabriel-gonzales/estudo_casos_autismo)
 - [Análise de Filmes: IMDb] (https://github.com/seu_usuario/relatorios-python)
 
 ### Habilidades:
