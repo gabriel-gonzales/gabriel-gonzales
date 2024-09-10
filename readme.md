@@ -9,12 +9,19 @@
 - [Estudo de Casos de Autismo](https://github.com/gabriel-gonzales/estudo_casos_autismo)
 - [Análise de Filmes: IMDb](https://github.com/seu_usuario/relatorios-python)
 
-### Habilidades:
-| Linguagem/Skill | Badge |
-|-----------------|-------|
-| Python          | ![Python](https://img.shields.io/badge/-Python-blue) |
-| SQL             | ![SQL](https://img.shields.io/badge/-SQL-brightgreen) |
-| Git             | ![Git](https://img.shields.io/badge/-Git-orange) |
+### Habilidades e Linguagens Usadas:
 
-### Linguagens Usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical)
+<table>
+<tr>
+    <td>
+        <strong>Habilidades:</strong><br>
+        ![Python](https://img.shields.io/badge/-Python-blue)<br>
+        ![SQL](https://img.shields.io/badge/-SQL-brightgreen)<br>
+        ![Git](https://img.shields.io/badge/-Git-orange)
+    </td>
+    <td>
+        <strong>Linguagens Usadas:</strong><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical" alt="Linguagens Usadas">
+    </td>
+</tr>
+</table>
