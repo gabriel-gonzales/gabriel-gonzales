@@ -1,7 +1,7 @@
-# Olá! Sou o Gabriel Gonzales 👋
+# Olá! Sou o Gabriel 👋
 
-🎓 **Estudante de Data Science** <br>
-💻 **Atuando com SQL, Python, Análise Estatísticas e Matemáticas** <br>
+🎓 **Estudante de Data Science e Matemática** <br>
+💻 **Atuando com SQL, Python, PowerBI e Excel** <br>
 
 ### Projetos Recentes:
 - [Análise de Gênero no Ensino Superior](https://github.com/gabriel-gonzales/analise-genero-exatas-humanas)
