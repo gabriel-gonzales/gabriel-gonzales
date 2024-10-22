@@ -7,19 +7,19 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-luiz-gonzales/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Gabriel Luiz Gonzales"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,pandas,pyspark,sql,azure,aws,git,github,powerbi,mysql,anaconda,pycharm,vscode,visualstudio" alt="Gabriel's Skills"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,pandas,pyspark,sql,azure,aws,git,github,powerbi,mysql,anaconda,pycharm,vscode,visualstudio" alt="Gabriel's Skills"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-luiz-gonzales/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Gabriel Luiz Gonzales"/>
   </a>
 </p>
 
