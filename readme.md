@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gonzales</h1>
 <h3 align="center">Data Science and Statistics Student at Federal University of ABC (UFABC)</h3>
 
-- 🎯 I’m currently focusing on **Data Engineering** and **Data Analysis**.
+- 🎯 I’m currently focusing on **Data Engineering** and **Data Science**.
 - 🚀 Passionate about leveraging data to drive insights and solve real-world problems.
 - 📫 Reach me at **glg.gabrielgonzales@gmail.com**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,sql,pyspark,azure,git,github,powerbi,mysql,anaconda,pycharm,vscode,visualstudio" alt="Gabriel's Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,pandas,sql,pyspark,azure,aws,git,github,powerbi,mysql,anaconda,pycharm,vscode,visualstudio" alt="Gabriel's Skills"/>
   </a>
 </p>
 
@@ -30,5 +30,5 @@
 </a>
 
 <a href="https://github.com/gabriel-gonzales">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-gonzles&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-gonzales&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most used languages" />
 </a>
