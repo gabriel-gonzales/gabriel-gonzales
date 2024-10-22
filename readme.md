@@ -1,27 +1,34 @@
-# Olá! Sou o Gabriel 👋
+<h1 align="center">Hi 👋, I'm Gabriel Gonzales</h1>
+<h3 align="center">Data Science and Statistics Student at Federal University of ABC (UFABC)</h3>
 
-🎓 **Estudante de Data Science e Matemática** <br>
-💻 **Atuando com SQL, Python, PowerBI e Excel** <br>
+- 🎯 I’m currently focusing on **Data Engineering** and **Data Analysis**.
+- 🚀 Passionate about leveraging data to drive insights and solve real-world problems.
+- 📫 Reach me at **glg.gabrielgonzales@gmail.com**
 
-### Projetos Recentes:
-- [Análise de Gênero no Ensino Superior](https://github.com/gabriel-gonzales/analise-genero-exatas-humanas)
-- [Transações Bancárias em SQL](https://github.com/gabriel-gonzales/transacoes-sql)
-- [Estudo de Casos de Autismo](https://github.com/gabriel-gonzales/estudo_casos_autismo)
-- [Análise dos Casos de Incêncio no Brasil em 2024](https://github.com/gabriel-gonzales/analise_incendios_brasil)
+---
 
-### Habilidades e Linguagens Usadas:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-luiz-gonzales/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Gabriel Luiz Gonzales"/>
+  </a>
+</p>
 
-<table>
-<tr>
-    <td>
-        <strong>Skills</strong><br>
-        <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white" alt="Python"><br>
-        <img src="https://img.shields.io/badge/-SQL-brightgreen?style=flat&logo=sql&logoColor=white" alt="SQL"><br>
-        <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white" alt="Git"><br>
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gonzales&layout=compact&theme=radical" alt="Linguagens Usadas">
-    </td>
-</tr>
-</table>
+---
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pandas,sql,pyspark,azure,git,github,powerbi,mysql,anaconda,pycharm,vscode,visualstudio" alt="Gabriel's Skills"/>
+  </a>
+</p>
+
+---
+
+<a href="https://github.com/gabriel-gonzales">
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-gonzales&show_icons=true&locale=en&theme=chartreuse-dark" alt="Gabriel Gonzales's GitHub stats" />
+</a>
+
+<a href="https://github.com/gabriel-gonzales">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-gonzles&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most used languages" />
+</a>
