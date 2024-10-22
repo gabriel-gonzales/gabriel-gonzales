@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,sql,pyspark,azure,aws,git,github,powerbi,mysql,anaconda,pycharm,vscode,visualstudio" alt="Gabriel's Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,r,pandas,pyspark,sql,azure,aws,git,github,powerbi,mysql,anaconda,pycharm,vscode,visualstudio" alt="Gabriel's Skills"/>
   </a>
 </p>
 
