@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gonzales</h1>
 <h3 align="center">Data Science and Statistics Student at Federal University of ABC (UFABC)</h3>
 
-- 🎯 I’m currently focusing on **Data Engineering** and **Data Science**.
+- 🎯 I’m currently focusing on **Data Analysis** and **Data Science**.
 - 🚀 Passionate about leveraging data to drive insights and solve real-world problems.
 - 📫 Reach me at **glg.gabrielgonzales@gmail.com**
 
